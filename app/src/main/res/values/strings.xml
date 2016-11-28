@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="action_settings">Sorted By</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="button">MARK AS \n FAVOURITE</string>
+    <string name="pref_movie_label">Sorted By</string>
+
+    <string name="pref_movie_label_mostPop">Most Popular</string>
+    <string name="pref_movie_label_topRated">Top Rated</string>
+    <string name="pref_movie_label_favourite">Favourite</string>
+
+    <string name="pref_movie_key" translatable="false">movie</string>
+    <string name="pref_movie_mostPop" translatable="false">most_popular</string>
+    <string name="pref_movie_topRated" translatable="false">top_rated</string>
+    <string name="pref_movie_favourite" translatable="false">favourite</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
