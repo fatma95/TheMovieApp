@@ -1,5 +1,5 @@
 # TheMovieApp
 
-Please add the api key in the "String Key" variable in the MainActivityFragment 
+In the MainActivityFragment please add the Api Key in the String Key variable in the try of the doInBackground method 
 
 Thank you 
